@@ -27,9 +27,13 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Jainam Jagani</a>
+      <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> through 
+      <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
      </small>
   </p>
+  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
+    <a href="https://kirticollege.edu.in/">Kirti College</a> during academic year 2022-23
+  </small>
 </div><br/><br/>
 
 ## About the Project 🥱
@@ -295,4 +299,4 @@ If you want the full report of project
 
 ![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Jainam Jagani</a>
+### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
